@@ -1,0 +1,10 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+@import './partials-sass/variables';
+@import './partials-sass/interface';
+@import './partials-sass/mixins';
+@import './partials-sass/modules/background';
+@import './partials-sass/modules/media';

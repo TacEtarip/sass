@@ -1,0 +1,31 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.media {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.media .item {
+  margin-bottom: 20px;
+  border-top: 1px dotted #bb1313;
+}
+.media .head {
+  margin: 0;
+  padding: 0;
+  color: #1414c2;
+  font-size: 2rem;
+}
+.media p {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.media img {
+  float: left;
+  margin-right: 10px;
+}
+.media a {
+  text-decoration: none;
+  color: #022933;
+}
